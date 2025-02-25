@@ -18,6 +18,7 @@ https://github.com/mattbarty/cv_sudoku_solver/assets/52583796/23ee9cc6-10d5-40e4
 <p>Converts to grayscale and applies Gaussian blur to smoothen the image. Highlights the grid for contour detection, identifying the largest quadrilateral as the grid. Corrects the perspective to a top-down view, squaring the grid for digit processing.</p>
 
 <h3>Digit Recognition</h3>
+![image](https://github.com/user-attachments/assets/035e716d-e567-4b83-bddc-e9109ec430dc)
 <p>Divides the grid into 81 cells, enhancing each for digit recognition. A CNN classifies cell contents, recognizing digits or identifying empty cells.</p>
 
 <h3>Sudoku Solving and Solution Overlay</h3>
